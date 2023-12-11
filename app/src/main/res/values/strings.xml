@@ -1,0 +1,120 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Cheese in the Trap</item>
+        <item tools:ignore="Typos">Hwarang</item>
+        <item>Who are You: School 2015</item>
+        <item tools:ignore="Typos">Business Proposal</item>
+        <item tools:ignore="Typos">It\'s Okay, That\'s Love</item>
+        <item>The Heirs</item>
+        <item>The Beauty Inside</item>
+        <item>Boys Over Flowers</item>
+        <item>Playfull Kiss</item>
+        <item>My Girl</item>
+        <item>My Demon</item>
+        <item>Strong Woman Do Bong Soon</item>
+        <item>49 Days</item>
+        <item>Perfect Marriage Revenge</item>
+        <item>Destined On You</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Pembukaan drama Cheese in the Trap awalnya hanya menyoroti kisah dua mahasiswa. Mereka adalah Hong Seol (Kim Go Eun) dan Yoo Jung (Park Hae Jin). Kedua mahasiswa ini awalnya tidak saling akur.
+            Yoo Jung yang merupakan mahasiswa yang mempunya rupa menawan dan terkenal pintar. Ia merupakan anak dari seorang pengusaha kaya raya. Sayangnya, walaupun banyak penggemar, ada sisi kelam yang banyak orang tidak tahu.
+            Di sisi lain, Hong Seol hanyalah gadis sederhana dengan sejuta kerja keras agar kehidupannya bisa tetap berjalan. Entah mengapa Hong Seol dan Yoo Jung tidak pernah menjalin hubungan baik. Hong Seol pun memutuskan untuk cuti kuliah karena kondisi hidupnya.
+            Ketika ia kembali ke kampus, semuanya berubah drastis. Yoo Jung bersikap sangat baik kepadanya. Bahkan ia langsung meminta izin untuk mengajak Hong Seol berkencan. Perempuan itu pun memberikannya kesempatan.
+            Belum lama hubungan membaik, datang teman lama Hong Seol yakni Baek In Ho. Pria ini juga menyimpan rasa terhadap Hong Seol. Kisah cinta segitiga pun tidak dapat dihindarkan oleh mereka. Langkah apa yang akan diambil oleh Yoo Jung mengetahui dirinya memiliki saingan?</item>
+        <item>Mempunyai setting waktu di masa Kerajaan Silla drama ini menggambarkan kisah Hwarang atau sekelompok elit pemuda laki-laki. Menceritakan tentang persahabatan Moo Myung dan Mak Moon yang hidup di luar ibu kota.
+            Suatu hari keduanya nekat untuk masuk ibu kota dengan tujuan mencari keberadaan orang tua dan adik kandung Mak Moon. Kedua sahabat ini pun diam-diam menyelinap masuk dan menyamar menjadi warga lokal.
+            Pada masa itu, terdapat sebuah peraturan bahwa tidak boleh ada seorang pun yang keluar masuk ibu kota. Namun, tanpa sadar terdapat sebuah petaka yang terjadi pada Mak Moon di mana ia tidak sengaja melihat Sam Maek Jong.
+            Sam Maek Jong merupakan raja muda yang tengah disembunyikan di luar kerajaan untuk melindunginya dari bangsawan yang berebut tahta. Sehingga, siapa pun yang bertemu Maek Jong harus dibunuh di tempat demi keamanannya.
+            Pada saat yang sama, ayah dari Mak Moon menyusur hutan dan mencari putranya yang telah hilang. Namun, ia justru menemukan Moo Myung dalam keadaan sekarat sedangkan anaknya Mak Moon dalam keadaan meninggal dunia.
+            Lantas apa yang terjadi pada Moo Myung kini? Akankah ia tetap selamat dan konflik apa lagi yang akan dihadapinya saat ini.</item>
+        <item>Kim So Hyun dipercaya membawakan dua karakter sekaligus, yakni gadis kembar Lee Eun Bi dan Go Eun Byul yang merupakan anak kembar identik. Namun keduanya berpisah saat Eun Byul diadopsi.
+            Karena bully di sekolahnya, Lee Eun Bi yang berusaha bunuh diri berhasil diselamatkan oleh Go Eun Byul. Namun Eun Bi mengalami amnesia dan justru dikira sebagai Eun Byul. Sedangkan Eun Byul memilih meninggalkan keluarganya.
+            Berperan sebagai Han Yi An, Nam Joo Hyuk membawakan karakter sahabat Go Eun Byul. Namun lama-lama ia justru dibuat jatuh cinta pada sosok Eun Byul yang baru, yang aslinya adalah Lee Eun Bi.
+            Sedangkan Yook Seung Jae berperan sebagai Gong Tae Kwang yang meski anak dari direktur sekolah, memiliki kehidupan pahit sendiri. Ia pun naksir Lee Eun Bi yang membuat hidupnya lebih baik.</item>
+        <item>Shin Ha Ri dikenal sebagai seorang karyawan yang bertugas pada bagian penelitian makanan dan pengembangan menu baru di perusahaan makanan. Berkat dedikasinya yang luar biasa untuk perusahaan, Shin Ha Ri berhasil menerima penghargaan dari kantornya.
+            Sedangkan, Kang Tae Moo merupakan CEO muda yang akan melanjutkan perusahaan tersebut. Kang Tae Moo merupakan cucu dari pemilik perusahaan tersebut yang baru saja kembali dari luar negeri. Karena menjadi satu-satunya pewaris, sang kakek ingin Kang Tae Moo segera menikah. Tidak heran jika sang kakek bernama Kang Da Goo selalu menyuruhnya ikut kencan buta dengan para gadis. Tapi, Kang Tae Moo yang belum ingin menjalin hubungan dengan wanita ini selalu saja menghindar dengan beragam cara.
+            Kakeknya tidak akan berhenti sampai Kang Tae Moo membawa perempuan yang ia cintai. Suatu saat, kakek Tae Moo kembali membuat kencan buta dengan perempuan bernama Jin Young Seo. Ia merupakan anak dari salah satu konglomerat yang akan dijodohkan dengan Kang Tae Moo. Di sisi lain Jin Young Seo juga enggan datang di kencan buta. Karena, ia berharap bisa bertemu pria yang benar-benar ia cintai sendiri.
+            Jin Young Seo yang tak lain teman dekat Shin Ha Ri ini meminta temannya untuk menggantikan posisinya. Karena kepepet untuk mendapatkan tambahan uang, Shin Ha Ri setuju melakukannya. Sementara itu, Kang Tae Moo ternyata hadir dalam kencan buta itu. Shin Ha Ri telah merencanakan berbagai cara membuat Kang Tae Moo ilfeel untuk menggagalkan kencan buta.
+            Tapi, siapa sangka tindakan Shin Ha Ri malah menarik perhatian Kang Tae Moo. Sampai akhirnya, keduanya membuat sebuah kesepakatan untuk menjalin hubungan kontrak sebagai pasangan kekasih. Awalnya, Shin Ha Ri tak tahu kalau Kang Tae Moo adalah bos baru di perusahaannya.
+            Hubungan keduanya pun terjalin begitu menarik. Apalagi, Shin Ha Ri sengaja menyembunyikan identitas aslinya saat tahu bahwa dirinya menyamar menjadi Jin Young Seo.</item>
+        <item>Sinopsis drama IT\'S OKAY THAT\'S LOVE mengisahkan tentang seorang dokter yang menangani masalah kesehatan mental bertemu dengan penulis novel terkenal sekaligus DJ popular. Pertemuan tersebut mengubah kehidupan mereka yang sama-sama memiliki trauma masa lalu.Drama IT\'S OKAY THAT\'S LOVE menjadi drakor membagikan kisah tentang perjuangan karakternya keluar dari masalah kesehatan mental mereka.</item>
+        <item>THE HEIRS menjadi salah satu drama Korea terlegend yang pernah hits di tahun 2013 silam. Drama ini menampilkan sederet bintang ternama Korea dengan kisah yang begitu menarik tentang para anak keluarga konglomerat. Ya, THE HEIRS drama Korea ini menghadirkan kisah keluarga konglomerat berlatarkan dunia sekolah.
+            Selain itu, THE HEIRS drama Korea ini juga mengangkat genre romance, komedi, dan melodrama yang bakalan membuatmu baper. Menampilkan romansa para anak konglomerat yang dipenuhi dengan beragam konflik.
+            Fokus utama pada tokoh Kim Tan, anak konglomerat ternama dari Jeguk Grup. Perusahaan tersebut merupakan pemilik dari sekolah elit yang terdiri dari para murid anak konglomerat. Namun, ada salah seorang siswanya berasal dari kalangan bawah yang mana berhasil masuk SMA tersebut berkat beasiswa bernama Cha Eun Sang.
+            Ia dikenal sebagai gadis yang berasal dari keluarga sederhana tapi sosok pekerja keras. Sebelumnya Cha Eun Sang pernah bertemu dengan Kim Tan saat berada di Amerika Serikat pertemuan tidak sengaja tersebut terjadi karena Cha Eun Sang tengah mencari kakak kandungnya yang bekerja di sana. Dari pertemuan itu, Kim Tan masih terbayang-bayang sosok Cha Eun Sang.
+            Sampai-sampai bayangan gadis tersebut terbawa sampai ia kembali ke Korea. Bak sebuah takdir, Cha Eun Sang ternyata menjadi siswa dari sekolah yang sama dengan Kim Tan. Di sinilah hubungan keduanya semakin dekat. Belum lagi, ibu Cha Eun Sang ternyata bekerja di rumahnya. Hal ini membuat Cha Eun Sang dan sang ibu juga tinggal di rumah Kim Tan.
+            Kisah romansa keduanya terjalin dengan beragam konflik meskipun awalnya, Cha Eun Sang tampak kurang tertarik dengan Kim Tan. Selain itu, karena berasal dari keluarga sederhana dan miskin, Cha Eun Sang kerap dibully teman-temannya. Termasuk sosok Cho Young Do, anak konglomerat Grup Hotel Zeus. Ia juga menjadi musuh dari Kim Tan yang selalu mengganggu Cha Eun Sang. Meski terlihat menjengkelkan, sebenarnya Cho Young Do tertarik pada Cha Eun Sang. Hanya saja, ia melakukan pendekatan dengan cara yang berbeda.
+            Keduanya pun akhirnya bersaing merebutkan hati Cha Eun Sang. Di sisi lain, perbedaan kelas sosial Cha Eun Sang dengan Kim Tan ataupun Cho Young Do menjadi hambatan hubungan keduanya. Tak hanya kisah cinta Cha Eun Sang, karena ada pasangan lain yang nggak kalah menarik yakni Yoon Chan Yeon dan Lee Bo-na.</item>
+        <item>BEAUTY INSIDE drama ini berkisah tentang Han Se Gye, seorang aktris papan atas yang juga dikenal sebagai pembuat onar. Gelar ini diberikan karena sosoknya memiliki banyak rumor. Bagi orang lain, hidupnya tampak seperti sebuah misteri, padahal ia dihadapkan pada kejadian aneh di mana ia harus berganti tubuh dan identitas baru selama satu minggu dalam sebulan.
+            Hingga suatu hari, Han Se Gye bertemu dengan sosok Seo Do Jae, seorang pria brilian yang merupakan seorang eksekutif di sebuah perusahaan penerbangan. Terlihat dari luar, Seo Do Jae seperti memiliki semuanya, penampilan sempurna, pengetahuan, dan pekerjaan bagus. Namun, sama seperti Han Se Gye, dia juga punya rahasia karena menderita Prosopagnosia.
+            Penyakit ini merupakan penyakit unik di mana orang yang menderita ini memiliki ketidakmampuan mengenali wajah orang. Walaupun begitu, Seo Do Jae berhasil menyembunyikannya dari dunia. Setiap hari dia berusaha mengingat orang berdasarkan kepribadiannya. Namun, suatu hari kehidupan Seo Do Jae mulai berubah saat bertemu dengan Han Se Gye.
+            Dia adalah satu-satunya orang yang wajahnya bisa dia kenali. Tapi dengan perubahan Han Se Gye yang terus-menerus, tidak tahu harus berapa lama dia bisa menjaga rahasianya. Memiliki cerita yang unik, BEAUTY INSIDE drama cukup populer loh di tahun 2018 silam. Dan menjadi salah satu drama Korea yang sayang untuk kalian lewatkan.</item>
+        <item>Boys Over Flowers menceritakan tentang seorang gadis bernama Geum Jan Di. Ia berasal dari keluarga pemilik toko laundry yang sederhana.
+            Suatu hari saat hendak mengantarkan pakaian laundry kepada salah satu siswa di SMA Shine Hwa, Geum Jan Di menyelamatkan hidup seorang siswa yang berencana melompat untuk bunuh diri dari atap.
+            Siswa tersebut adalah korban bullying dari kelompok F4 yang berkuasa di sekolah Shin Hwa. Sejak saat itu, Geum Jan Di diteror oleh kelompok F4, khususnya pemimpin mereka, yakni Gu Jun Pyo.
+            Namun seiring berjalannya waktu, Gun Jun Pyo jatuh cinta kepada Geum Jan Di. Akan tetapi ibu Gu Jun Pyo tidak menyetujui hubungan tersebut itu karena status sosial mereka berbeda.</item>
+        <item>Oh Ha Ni dikisahkan sebagai seorang siswi SMA yang jatuh cinta pada Baek Seung Jo yang perfeksionis. Sayang, cinta Oh Ha Ni itu harus bertepuk sebelah tangan karena Baek Seung Jo acuh tak acuh terhadapnya dan menolak cintanya. Saat rumahnya tiba-tiba runtuh, Oh Ha Ni diajak ayahnya pindah ke rumah sahabat lamanya.
+            Seakan sudah ditakdirkan, Baek Seung Jo ternyata adalah putra sulung dari sahabat ayah Oh Ha Ni. Alhasil, Oh Ha Ni pun untuk sementara waktu tinggal serumah dengan keluarga Baek Seung Jo. Ia seakan diberi kesempatan untuk berada di dekat lelaki yang dicintainya. Apakah Oh Ha Ni mampu membuat Baek Seung Jo jatuh hati padanya?</item>
+        <item>MY GIRL mengisahkan tentang Seol Gong-chan seorang pria kaya keluarga konglomerat yang ingin membahagiakan kakek di pengujung usianya. Masa hidup sang kakek habis untuk menemukan cucu perempuannya yang hilang. Oleh karena itu, Seol Gong-chan bekerjasama dengan seorang gadis dari keluarga miskin bernama Joo Yoo-rin. Dia membayar wanita yang ditemuinya itu untuk berperan sebagai cucu pura-pura sang kakek yang telah lama hilang. Yoo-rin pun menerima tawaran tersebut karena memang sedang membutuhkan uang karena ayahnya doyan berjudi.
+            Kehadiran Yoo-rim sebagai cucu palsu ternyata turut membuat kondisi kakek Gong-chan membaik. Sejak saat itu, Gong-chan dan Yoo-rin mulai tinggal dalam satu atap sebagai sepupu sebagaimana yang diminta sang kakek. Yoo-rin dan Gong-chan awalnya merasa canggung dan tidak akur. Namun lambat laun, keduanya malah terjebak pada perasaan masing-masing. Saat mulai dekat satu sama lain, mantan kekasih Gong-chan yang merupakan petenis tenar terkenal muncul kembali. Dia juga berusaha mendapatkan hati Gong-chan kembali. Di saat bersamaan, sepupu Gong-chan bernama Seo Jung-woo juga mulai jatuh hati dan berusaha mendekati Yoo-rin.</item>
+        <item>Do Do-hee (Kim Yoo-jung) adalah penerus Future Group, perusahaan hidangan penutup yang sukses. Dia memiliki kepribadian arogan, berkepala dingin, dan sangat menggilai pekerjaannya.
+            Dia juga tidak percaya pada siapa pun sehingga menjadi begitu sinis tentang cinta. Namun pada suatu hari, Do Do-hee terlibat dengan Jeong Gu-won (Song Kang). Jeong Gu-won merupakan iblis yang kini berusia 200 tahun. Ia sesungguhnya bisa hidup selamanya asal membuat kesepakatan berbahaya, tapi manis dengan manusia yang bisa bertahan jalani kehidupan di neraka.
+            Sepanjang hidupnya, Gu-won selalu meremehkan manusia dan merasa berada di puncak predator hingga ia terlibat hubungan dengan Do Do-hee.
+            Ia entah kenapa tiba-tiba kehilangan kekuatannya selama ini dan membuatnya jadi terikat pernikahan kontrak dengan manusia tersebut. Pernikahan itu ternyata juga begitu berpengaruh bagi eksistensinya. Demi menghindari risiko kehilangan kekuatan untuk selama-lamanya, Jeong Gu-won mau tak mau harus bisa selalu menjaga dan memastikan keselamatan Do Do-hee. Hal tersebut yang kemudian membuat hubungan mereka berkembang ke arah tak pernah keduanya duga.</item>
+        <item>"Strong Woman Do Bong Soon" adalah drama komedi romantis dan fantasi yang menceritakan kisah Do Bong Soon, seorang wanita muda dengan kekuatan super. Meskipun memiliki kemampuan yang tidak biasa, ia berharap dapat menjalani kehidupan normal dan bekerja keras untuk menjaga rahasia kekuatannya. Dia dipekerjakan sebagai pengawal pribadi untuk Ahn Min Hyuk, CEO sebuah perusahaan game, yang telah menerima ancaman anonim. Saat bekerja sama, terbentuk segitiga cinta yang unik dan menarik antara Do Bong Soon, Ahn Min Hyuk, dan In Guk Doo, seorang polisi dan naksir lama Bong Soon. Drama ini menggabungkan elemen romansa, komedi, dan ketegangan ketika karakter-karakternya mengatasi hubungan mereka dan menghadapi berbagai tantangan.</item>
+        <item>Mengisahkan tentang dua orang perempuan bernama Ji Hyun dan Yi Kyung. Kedua orang yang punya nasib berbeda dan tak saling mengenal satu sama lain. Namun sebuah kejadian membuat keduanya terhubung satu sama lain.
+            Dikisahkan, Ji Hyun adalah seorang perempuan yang dipandang mempunyai kehidupan sempurna. Ji Hyun juga akan segera menikah dengan tunangannya, Min Ho. Sedangkan sebaliknya, Yi Kyung perempuan yang hidupnya sedang hancur. Kekasihnya baru saja meninggal karena sebuah kecelakaan.
+            Karena depresi, Yi Kyung berpikir untuk mengakhiri hidupnya dengan bunuh diri. Suatu ketika, Yi Kyung pun nekat berlari ke jalanan yang ramai hingga akhirnya menyebabkan kecelakaan beruntun parah. Tak disangka, mobil yang ditumpangi Ji Hyun menjadi salah satu kendaraan yang terlibat di kecelakaan beruntun itu.
+            Ji Hyun yang mengalami kecelakaan, keluar dari mobil dengan kondisi linglung. Namun dia kemudian tersadar bahwa kini jiwanya terpisah dari raga. Ji Hyun terkejut saat melihat tubuhnya dibawa masuk ke ambulans. Di saat bersamaan Ji Hyun juga melihat seorang laki-laki misterius yang terus memperhatikannya.
+            Ji Hyun yang kebingungan pun mengikuti tubuhnya yang dibawa ke rumah sakit. Tak disangka, di rumah sakit itu dia bertemu kembali dengan sang laki-laki misterius yang belakangan dia ketahui merupakan seorang malaikat maut. Namun sang malaikat maut tak langsung mengajaknya pergi. Sang malaikat maut memberikan Ji Hyun kesempatan kedua untuk sadar dari komanya.
+            Syarat itu mengharuskan Ji Hyun mengumpulkan tetesan air mata dari tiga orang yang menyayanginya dengan tulus. Ji Hyun langsung teringat sang tunangan dan dua sahabat yang dia yakini benar-benar menyayanginya dengan tulus dalam waktu 49 hari.
+            Untuk bisa memenuhi syarat itu, Ji Hyun kemudian masuk ke tubuh Yi Kyung. Sayangnya, saat berada di tubuh Yi Kyung ingatan terakhir dirinya Ji Hyun pun kembali. Saat itu dia teringat sebelum peristiwa pahit kecelakaan itu terjadi, Ji Hyun menyaksikan pengkhianatan sang tunangan dan salah satu sahabatnya. Sejak itu, dia sadar bahwa untuk mendapatkan tiga tetes air mata itu tidaklah mudah.</item>
+        <item>PERFECT MARRIAGE REVENGE menceritakan tentang seorang perempuan cantik bernama Han Yi Joo (Jung Yoo Min). Ia merupakan seorang pelukis yang lalu diadopsi oleh Han Jin-Woong dan Lee Jung-Hye. Sang ayah menjalankan Hanwool Financial Group. Akan tetapi Han Yi-Joo tidak dicintai dan selalu terisolasi dari keluarganya.
+            Yi Joo kemudian menikah dengan Jung Se-Hyeok. Akan tetapi dia mengetahui bahwa suaminya tidak mencintai dirinya dan malah mencintai saudara perempuannya, Han Yoo Ra. Pada suatu momen, Yi Joo mengalami kecelakaan mobil dan membuatnya meninggal. Akan tetapi, kecelakaan tersebut yang mengubah hidupnya.
+            Yi Joo kemudian terbangun kembali di masa ketika ia bertunangan dengan sang suami, Se Hyeok. Ia kemudian membangun rencana untuk membalaskan dendamnya. Yi Joo kemudian memutuskan pertunangan dengan Se Hyeok dan ia juga mendekati Seo Do Kook, laki-laki yang ingin dinikahi oleh saudara perempuannya.
+            Seo Do Kook merupakan cucu dari pendiri Taeja Group dan merupakan orang yang cerdas serta tampan. Kemudian keduanya menikah kontrak untuk membalaskan dendamnya. Akankah aksi balas dendam Yi Joo akan berhasil? Akankah nikah kontraknya akan menjadi sesungguhnya?</item>
+        <item>DESTINED WITH YOU berkisah tentang kisah romansa Lee Hong Jo yang mendapat sebuah buku terlarang di dalam sebuah kuil di Gunung Onju. Buku  tersebut rupanya telah disegel selama 300 tahun.
+            Sementara, Jang Shin Yun oleh seorang pria yang merupakan korban dari kutukan buku tersebut. Kutukan yang dideritanya merupakan sebuah penyakit misterius yang turun temurun dari era Dinasti Joseon.
+            Bagi dirinya, yang dapat menyembuhkannya dari kutukan tersebut hanyalah buku yang ditemukan oleh Hong Jo, hingga ia pun pindah ke kota Onju agar dapat lebih dekat dengan Hong Jo.</item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/anime0</item>
+        <item>@raw/anime1</item>
+        <item>@raw/anime2</item>
+        <item>@raw/anime3</item>
+        <item>@raw/anime4</item>
+        <item>@raw/anime5</item>
+        <item>@raw/anime6</item>
+        <item>@raw/anime7</item>
+        <item>@raw/anime8</item>
+        <item>@raw/anime9</item>
+        <item>@raw/anime10</item>
+        <item>@raw/anime11</item>
+        <item>@raw/anime12</item>
+        <item>@raw/anime13</item>
+        <item>@raw/anime14</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+        <item>@drawable/gambar9</item>
+        <item>@drawable/gambar10</item>
+        <item>@drawable/gambar11</item>
+        <item>@drawable/gambar12</item>
+        <item>@drawable/gambar13</item>
+        <item>@drawable/gambar14</item>
+        <item>@drawable/gambar15</item>
+    </integer-array>
+</resources>
